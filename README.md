@@ -1,2 +1,2 @@
 # MyPic
-我的GitHub
+我的GitHub图床
